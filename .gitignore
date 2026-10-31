@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+*.log
+*.lst
+*.lxi
+*.gdx
+*.g00
+.DS_Store
+scratch_results/
+results_pyomo/
+results_gurobi/
+gams/*_gams.csv

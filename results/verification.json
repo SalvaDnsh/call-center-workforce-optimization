@@ -1,0 +1,10 @@
+{
+  "baseline_objective": 184848,
+  "baseline_relative_gap": 0,
+  "certified_scenarios": 37,
+  "unit_tests_passed": 2,
+  "backend_tested": "SciPy/HiGHS",
+  "optional_backends_executed": false,
+  "gams_executed": false,
+  "reports_unchanged": true
+}

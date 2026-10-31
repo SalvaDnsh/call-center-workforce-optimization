@@ -1,0 +1,16 @@
+parameter_value,status,objective,dual_bound,relative_gap,reference_feasible,reference_objective,reference_still_optimal
+10,optimal,185694.0,185694.0,0.0,False,,False
+12,optimal,185591.9999999999,185591.9999999999,0.0,False,,False
+13,optimal,185586.00000000122,185586.00000000122,0.0,False,,False
+15,optimal,185493.0,185493.0,0.0,False,,False
+20,optimal,185355.0,185355.0,0.0,False,,False
+25,optimal,185207.99999856108,185207.99999856108,0.0,False,,False
+30,optimal,185042.99999999994,185042.99999999994,0.0,False,,False
+35,optimal,184914.0,184914.0,0.0,False,,False
+40,optimal,184848.0,184848.0,0.0,True,184848.0,True
+45,optimal,184763.99999999997,184763.99999999997,0.0,True,184848.0,False
+50,optimal,184707.0,184707.0,0.0,True,184848.0,False
+55,optimal,184689.0,184689.0,0.0,True,184848.0,False
+60,optimal,184662.0,184662.0,0.0,True,184848.0,False
+65,optimal,184626.0,184626.0,0.0,True,184848.0,False
+70,optimal,184599.0,184599.0,0.0,True,184848.0,False

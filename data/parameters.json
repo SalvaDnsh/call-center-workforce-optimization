@@ -1,0 +1,13 @@
+{
+  "wage_day": 18,
+  "wage_night": 27,
+  "shift_capacity": 100,
+  "minimum_active": 80,
+  "maximum_active": 420,
+  "hourly_shortage_limit": 10,
+  "daily_shortage_parsian": 40,
+  "daily_shortage_mehr": 30,
+  "penalty_parsian_day": 60,
+  "penalty_parsian_night": 30,
+  "penalty_mehr": 45
+}

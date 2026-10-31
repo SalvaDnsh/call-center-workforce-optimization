@@ -1,0 +1,4 @@
+# CBC is a separate executable, not supplied by pip.
+pyomo>=6.7,<7
+# Gurobi requires its own valid license where applicable.
+gurobipy>=11,<14
